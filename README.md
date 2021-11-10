@@ -8,22 +8,15 @@
 
 ## Interests
 
-I'm obsessed with the Color Graphics Adapter Palette. Have a look:
+I'm obsessed with the Color Graphics Adapter Palette, here's what it looks like:
 
 ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR13qUVZW7WlOKATP7HLkXzO5vwMLV5huT_nUQIM6KsNKyW6U9KbD9_NfVEoklyXqfCHYU:https://www.mindhuestudio.com/wordpress/wp-content/uploads/2011/12/CGA-Palette.gif&usqp=CAU)
 
-Glorious, right? My **ABYSS** series uses this palette to celebrate CGA's 40th anniversary (It came out in 1981!) and also because I simply enjoy it.
+I like other retro palettes but I'm kinda biased towards CGA because I use it in the **ABYSS** series.
 
-I'm a fanatic of other retro palettes such as gameboy but palettes are boring so let's move on.
+Anyways, I enjoy Watermelon but I absolutely can't stand tomatoes. I enjoy a cup of Pink Starburst drink mix every once in a while.
 
-I'm a rhythm game god, but not a good rhythm game programmer. I hope I can learn how to develop rhythm games in the future, for now I'm stuck with bullet hells, platformers, and shoot 'em ups.
-
-My favorite food is Watermelon but I can't stand tomatoes.
-
-My personal favorite music artist is Calum Bowen.
-
-I enjoy a nice cup of Pink Starburst drink mix every once in a while.
-
+I'm a rhythm game fanatic but I can't program them, I can only really do bullet hells, shoot 'em ups, and platformers.
 ## How I Program
 
 This is embarrassing to say, but I don't *actually* know exactly how to program. I use an edited version of the **Scratch editor**, an HTML5 based program. I'll get to learning C# and JavaScript for Unity and website programming when I stop being lazy, haha.
