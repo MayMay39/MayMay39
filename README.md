@@ -33,7 +33,10 @@ Anyways, programming is a pastime for me. I make game assets either in the Scrat
 ## Links
 
 https://scratch.mit.edu/users/PrettyPrincess39 - My Scratch account, don't expect me to respond to you there :)
+
 https://maymay39.itch.io/ - My itch.io account, I post my games there as of October 2021.
+
 https://github.com/maymay39 - You're here right now! Get assets from the games I post on itch.io through my repositories.
+
 https://github.com/kalisto39 - My brother's Github, we run a game dev studio named **Dino's Cove** (Don't tell him I do most of the work.)
 
